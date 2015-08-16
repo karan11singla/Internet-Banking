@@ -1,0 +1,3 @@
+# Internet-Banking
+The main aim of designing and developing this Internet banking System J2EE primarily based Engineering project is to provide secure and efficient net banking facilities to the banking customers over the internet. Java Server Pages, J2EE, Java, Enterprise Beans, Oracle database used to develop this bank application where all banking customers can login through the secured web page by their account login id and password.  Users will have all options and features in that application like get money from western union, money transfer to others, make payments for electricity bills, mobile prepaid recharges, mobile bills, water bills etc, and send cash or money to inter banking as well as other banking customers by simply adding them as payees
+
